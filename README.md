@@ -1,16 +1,16 @@
- <img src="https://i.ibb.co/MPJ93X9/20211209-205206.png" alt="google-font" border="0"></a>
+ <img src="https://www.linkpicture.com/q/20220107_193223_1.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://i.ibb.co/6tbmPj1/maaluttty.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://i.ibb.co/TcDLWQg/IMG-20220106-WA0000.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="MAALUTTY_V3" src="https://img.shields.io/badge/MAALUTTY_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ABU_SER_V3" src="https://img.shields.io/badge/ABU_SER_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/ABU_SER_V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to make it public
+Project created by <a href="https://github.com/nijin-husni">SHALU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -27,40 +27,40 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husni-ser/MAALUTTY.DEPLOY) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHALU-SER/MAALUTTY.DEPLOY) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/SHALU-SER/ABU_SER_V3
+$ cd ABU_SER_V3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node maalutty.js
+$ node Abu.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V3
-$ cd MAALUTTY_V3
+$ git clone https://github.com/SHALU-SER/ABU_SER_V3
+$ cd ABU_SER_V3
 $ npm i
-$ node maalutty.js
+$ node Abu.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/MAALUTTY_V3">
+  <a href="https://github.com/SHALU-SER/ABU_SER_V3">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/nijin-husni/followers"
+<a href="https://github.com/SHALU-SER/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/MAALUTTY_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/SHALU-SER/ABU_SER_V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SHALU-SER/ABU_SER_V3?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/SHALU-SER/ABU_SER_V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHALU-SER/ABU_SER_V3?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -100,7 +100,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![nijin-husni](https://github.com/nijin-husni.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
+  [![Ameen-ser](https://github.com/Ameen-ser.png?size=100)](https://github.com/Ameen-ser) | [![ABUSER](https://github.com/SHALU-SER.png?size=100)](https://github.com/AI-VIKI) | [![Luciferking](https://github.com/luciferking1.png?size=100)](https://github.com/luciferking1) 
 ----|----|----
 [Ameen-ser](https://github.com/Ameen-ser) | [nijin-husni](https://github.com/nijin-husni) | [luciferking1](https://github.com/luciferking1) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Developer, Base, Bug Fixes, Modules
