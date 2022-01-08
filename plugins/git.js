@@ -15,7 +15,7 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/6tbmPj1/maaluttty.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -25,25 +25,25 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 MAALUTTY_V3💝⦁━►
 
 
-*owner number husni* :https://wa.me/917025868709.
+*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025994178.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*Oᴡɴᴇʀ number Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ* :https://wa.me/917025994178.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*Oᴡɴᴇʀ Iᴅ ɪɴsᴛᴀɢʀᴀᴍ* :https://instagram.com/_husni_ser_.
 
 
-*github* : https://github.com/nijin-husni/MAALUTTY_V3.
+*Gɪᴛᴜʙ* : https://github.com/SHALU-SER/ABU_SER_V3.
 
 
-*audio commands* :https://github.com/nijin-husni/media/tree/main/bgm.
+*Aᴜᴅɪᴏ Cᴏᴍᴍᴀɴᴅs* :https://github.com/SHALU-SER/media/tree/main/bgm.
 
 
-*sticker commands* :https://github.com/nijin-husni/media/tree/main/stickers.
+*Sᴛɪᴄᴋᴇʀ Cᴏᴍᴍᴀɴᴅs* :https://github.com/nijin-husni/media/tree/main/stickers.
 
-◄━⦁💝 MAALUTTY_V3💝⦁━►
-■□ ~NIJIN~ AND ~HUSNI~■□ 
+◄━⦁💝 Aʙᴜ_sᴇʀ_ᴠ3💝⦁━►
+■□ ~Aʙᴜ~ Aɴᴅ ~Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ~■□ 
 
 `}) 
 
