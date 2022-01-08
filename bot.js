@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Maalutty is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
+            chalk.green.bold('Abuser is Working😍 ' + config.WORKTYPE + ' 𝚗𝚘𝚠 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 MAALUTTY_V3💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 ABU_SER_V3💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ MAALUTTY_V3 ~______~*' +
-                                    '\n*MAALUTTY ERROR🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 💖ABU_SER_V3💖 ~______~*' +
+                                    '\n*ABU_SER ERROR🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
