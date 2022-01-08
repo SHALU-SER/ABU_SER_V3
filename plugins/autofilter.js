@@ -14,7 +14,7 @@ asena.addCommand({pattern: 'nijin', fromMe: true, deleteCommand: true, desc: GM,
 
     var r_text = new Array ();
 
-    r_text[1] = "ɴɪᴊɪɴ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+    r_text[1] = "ᴀʙᴜ & ᴊᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ";
 
     var i = Math.floor(2*Math.random())
 
@@ -28,7 +28,7 @@ asena.addCommand({pattern: 'husni', fromMe: true, deleteCommand: true, desc: GN,
 
         var r_text = new Array ();
 
-        r_text[1] = "ʜᴜsɴɪ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+        r_text[1] = "ᴀʙᴜ & ᴊᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ";
 
         var i = Math.floor(2*Math.random())
 
@@ -60,7 +60,7 @@ asena.addCommand({pattern: 'husni', fromMe: true, deleteCommand: true, desc: GN,
 
                 var r_text = new Array ();
 
-                r_text[1] = "ʜᴜsɴɪ 𝙸𝚜 𝙼𝚢 𝙾𝚠𝚗𝚎𝚛";
+                r_text[1] = "ᴀʙᴜ & ᴊᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ";
           
                 var i = Math.floor(2*Math.random())
 
