@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/nijin-husni">SHALU-SER</a> to mak
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTYV3-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/Abuserv2-1?v=1)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHALU-SER/MAALUTTY.DEPLOY) 
