@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/nijin-husni">SHALU-SER</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=MAALUTTY_V3%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V3&title=ABU_SER_V3%20Views)
 
 ## Setup
 <div align="center">
